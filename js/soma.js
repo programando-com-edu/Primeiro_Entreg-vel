@@ -4,3 +4,5 @@ function Soma() {
     let resultado = num1 + num2;
     alert(`A soma é: ${resultado}`);
   }
+
+Soma();

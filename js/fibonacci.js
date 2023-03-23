@@ -16,3 +16,6 @@ function Sequencia() {
   
     alert(`A sequência de Fibonacci é: ${sequencia}`);
   }
+
+
+  Sequencia();

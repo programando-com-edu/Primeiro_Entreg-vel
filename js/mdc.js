@@ -11,3 +11,5 @@ function MDC() {
   
     alert(`O valor do MDC de ${primeiro_numero} e ${segundo_numero} é ${mdc}`);
   }
+
+  MDC();

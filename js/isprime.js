@@ -15,3 +15,5 @@ function isPrime(num) {
     // Se nenhum número menor que num foi divisível, ele é primo
     return true;
   }
+
+  isPrime();

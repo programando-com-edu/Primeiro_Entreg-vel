@@ -41,4 +41,4 @@ function QuickSort() {
     numeros[i] = numeros[j];
     numeros[j] = temp;
   }
-  
+  quickSort();
